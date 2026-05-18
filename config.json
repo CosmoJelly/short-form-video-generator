@@ -1,0 +1,20 @@
+{
+  "output_dir": "output",
+  "temp_dir": "temp",
+
+  "voice_model": "tts_models/en/vctk/vits",
+
+  "background_video_dir": "assets/gameplay",
+  "background_music_dir": "assets/music",
+
+  "font_path": "assets/fonts/Arial.ttf",
+
+  "sub_font_size": 60,
+
+  "video_size": [1080, 1920],
+  "fps": 30,
+
+  "music_volume": 0.25,
+  
+  "video_count": 1
+}
