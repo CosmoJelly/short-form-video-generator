@@ -191,7 +191,3 @@ Keep it subtle — the default `music_volume` of `0.08` is already pretty low. G
 > *[amogus](https://open.spotify.com/playlist/3x31JT5qo6yZSI2BKo0JLh?si=cdf409f83c4b4e61)*
 
 ---
-
-## License
-
-Do whatever you want with this. It was a personal experiment and it worked, so here it is.
